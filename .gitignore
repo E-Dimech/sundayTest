@@ -1,0 +1,6 @@
+# General OS files
+.DS_Store
+.env
+
+# Dependency directories
+node_modules/
